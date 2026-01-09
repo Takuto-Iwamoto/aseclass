@@ -9,4 +9,5 @@
  - Click the green button on the bottom of page as `Generate token`.
  - Make sure to copy the token like `ghp_UyAV....` and to paste it to your
  This line is added in Lesson2.
+ This line is added in Lesson6.
 memo.
